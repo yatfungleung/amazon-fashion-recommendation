@@ -1,11 +1,11 @@
-name,price,img_file,url
-MICRO BRANDING HOOD,HKD 763.00,image/MICRO BRANDING HOOD.png,https://www.calvinklein.com/hk/en/modern-essentials-micro-logo-hoodie-J215462.html?dwvar_J215462_color=ACID%20GREEN
-PRIDE CROPPED HOODIE,"HKD 1,190.00",image/PRIDE CROPPED HOODIE.png,https://www.calvinklein.com/hk/en/pride-cropped-hoodie-J217206.html?dwvar_J217206_color=BRIGHT%20WHITE
-ORGANIC COTTON MONOGRAM SWEATSHIRT,HKD 890.00,image/ORGANIC COTTON MONOGRAM SWEATSHIRT.png,https://www.calvinklein.com/hk/en/organic-cotton-monogram-sweatshirt-J216393.html?dwvar_J216393_color=PALMA%20LILAC
-MODERN ESSENTIALS+ MICRO LOGO HOODIE,HKD 763.00,image/MODERN ESSENTIALS+ MICRO LOGO HOODIE.png,https://www.calvinklein.com/hk/en/modern-essentials-micro-logo-hoodie-J215462.html?dwvar_J215462_color=PALMA%20LILAC
-PRIDE ALL OVER PRINT HOODIE,"HKD 1,290.00",image/PRIDE ALL OVER PRINT HOODIE.png,https://www.calvinklein.com/hk/en/pride-all-over-print-hoodie-J217207.html?dwvar_J217207_color=PRIDE%20MARBLE%20AOP
-REFLECTION INSTITUTIONAL ZIP UP HOODIE,HKD 903.00,image/REFLECTION INSTITUTIONAL ZIP UP HOODIE.png,https://www.calvinklein.com/hk/en/reflection-institutional-zip-up-hoodie-J215535.html?dwvar_J215535_color=BRIGHT%20WHITE
-PRIDE LOGO CROPPED SWEATSHIRT,"HKD 1,090.00",image/PRIDE LOGO CROPPED SWEATSHIRT.png,https://www.calvinklein.com/hk/en/pride-logo-cropped-sweatshirt-J217205.html?dwvar_J217205_color=SWEET%20LILAC
-PRIDE LOGO CROPPED SWEATSHIRT,"HKD 1,090.00",image/PRIDE LOGO CROPPED SWEATSHIRT.png,https://www.calvinklein.com/hk/en/pride-logo-cropped-sweatshirt-J217205.html?dwvar_J217205_color=BRIGHT%20WHITE
-OMBRE GRADIENT LOGO ORGANIC COTTON SWEATSHIRT,HKD 890.00,image/OMBRE GRADIENT LOGO ORGANIC COTTON SWEATSHIRT.png,https://www.calvinklein.com/hk/en/ombre-gradient-logo-organic-cotton-sweatshirt-J215991.html?dwvar_J215991_color=WHT%2FCITRUS%2FISLA
-LOGO TAPE ZIP THROUGH HOODIE,"HKD 1,090.00",image/LOGO TAPE ZIP THROUGH HOODIE.png,https://www.calvinklein.com/hk/en/logo-tape-zip-through-hoodie-J215222.html?dwvar_J215222_color=PALMA%20LILAC
+name,price,img_file,url,num_price
+MICRO BRANDING HOOD,HKD 763.00,image/MICRO BRANDING HOOD.png,https://www.calvinklein.com/hk/en/modern-essentials-micro-logo-hoodie-J215462.html?dwvar_J215462_color=ACID%20GREEN,763.0
+PRIDE CROPPED HOODIE,"HKD 1,190.00",image/PRIDE CROPPED HOODIE.png,https://www.calvinklein.com/hk/en/pride-cropped-hoodie-J217206.html?dwvar_J217206_color=BRIGHT%20WHITE,1190.0
+ORGANIC COTTON MONOGRAM SWEATSHIRT,HKD 890.00,image/ORGANIC COTTON MONOGRAM SWEATSHIRT.png,https://www.calvinklein.com/hk/en/organic-cotton-monogram-sweatshirt-J216393.html?dwvar_J216393_color=PALMA%20LILAC,890.0
+MODERN ESSENTIALS+ MICRO LOGO HOODIE,HKD 763.00,image/MODERN ESSENTIALS+ MICRO LOGO HOODIE.png,https://www.calvinklein.com/hk/en/modern-essentials-micro-logo-hoodie-J215462.html?dwvar_J215462_color=PALMA%20LILAC,763.0
+PRIDE ALL OVER PRINT HOODIE,"HKD 1,290.00",image/PRIDE ALL OVER PRINT HOODIE.png,https://www.calvinklein.com/hk/en/pride-all-over-print-hoodie-J217207.html?dwvar_J217207_color=PRIDE%20MARBLE%20AOP,1290.0
+REFLECTION INSTITUTIONAL ZIP UP HOODIE,HKD 903.00,image/REFLECTION INSTITUTIONAL ZIP UP HOODIE.png,https://www.calvinklein.com/hk/en/reflection-institutional-zip-up-hoodie-J215535.html?dwvar_J215535_color=BRIGHT%20WHITE,903.0
+PRIDE LOGO CROPPED SWEATSHIRT,"HKD 1,090.00",image/PRIDE LOGO CROPPED SWEATSHIRT.png,https://www.calvinklein.com/hk/en/pride-logo-cropped-sweatshirt-J217205.html?dwvar_J217205_color=SWEET%20LILAC,1090.0
+PRIDE LOGO CROPPED SWEATSHIRT,"HKD 1,090.00",image/PRIDE LOGO CROPPED SWEATSHIRT.png,https://www.calvinklein.com/hk/en/pride-logo-cropped-sweatshirt-J217205.html?dwvar_J217205_color=BRIGHT%20WHITE,1090.0
+OMBRE GRADIENT LOGO ORGANIC COTTON SWEATSHIRT,HKD 890.00,image/OMBRE GRADIENT LOGO ORGANIC COTTON SWEATSHIRT.png,https://www.calvinklein.com/hk/en/ombre-gradient-logo-organic-cotton-sweatshirt-J215991.html?dwvar_J215991_color=WHT%2FCITRUS%2FISLA,890.0
+LOGO TAPE ZIP THROUGH HOODIE,"HKD 1,090.00",image/LOGO TAPE ZIP THROUGH HOODIE.png,https://www.calvinklein.com/hk/en/logo-tape-zip-through-hoodie-J215222.html?dwvar_J215222_color=PALMA%20LILAC,1090.0
