@@ -16,7 +16,7 @@ This is a personal project I worked on in 2021.
 <br />
 
 ## Project Objective
-The purpose of this project is to help companies to recommend similar products for marketing campaigns as well as advertising.
+The purpose of this project is to help companies to recommend similar products to target customers for marketing campaigns as well as advertising.
 
 <br />
 
