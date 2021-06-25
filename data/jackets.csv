@@ -1,15 +1,15 @@
-name,price,img_file,url
-REFLECTION PACKABLE ZIP UP HOODIE,"HKD 1,393.00",image/REFLECTION PACKABLE ZIP UP HOODIE.png,https://www.calvinklein.com/hk/en/reflection-packable-zip-up-hoodie-J215999.html?dwvar_J215999_color=CRUSHED%20ORANGE
-CHINESE NEW YEAR CAPSULE REVERSIBLE JACKET,"HKD 1,603.00",image/CHINESE NEW YEAR CAPSULE REVERSIBLE JACKET.png,https://www.calvinklein.com/hk/en/chinese-new-year-capsule-reversible-jacket-J215355.html?dwvar_J215355_color=YELLOW%20AOP
-REFLECTION PACKABLE ZIP UP HOODIE,"HKD 1,393.00",image/REFLECTION PACKABLE ZIP UP HOODIE.png,https://www.calvinklein.com/hk/en/reflection-packable-zip-up-hoodie-J215999.html?dwvar_J215999_color=CK%20BLACK
-SHORT HOODED WINDBREAKER,"HKD 1,253.00",image/SHORT HOODED WINDBREAKER.png,https://www.calvinklein.com/hk/en/short-hooded-windbreaker-J215543.html?dwvar_J215543_color=ILLUMINATED%20BLK
-CHINESE NEW YEAR CAPSULE RELAXED DENIM TRUCKER JACKET,"HKD 1,533.00",image/CHINESE NEW YEAR CAPSULE RELAXED DENIM TRUCKER JACKET.png,https://www.calvinklein.com/hk/en/chinese-new-year-capsule-relaxed-denim-trucker-jacket-J215379.html?dwvar_J215379_color=CC407%20LT%20BLUE
-HYBRID DENIM JACKET,"HKD 2,093.00",image/HYBRID DENIM JACKET.png,https://www.calvinklein.com/hk/en/hybrid-denim-jacket-J216198.html?dwvar_J216198_color=ACD632%20LT%20BLUE
-PRIDE CROPPED DENIM VEST,HKD 903.00,image/PRIDE CROPPED DENIM VEST.png,https://www.calvinklein.com/hk/en/pride-cropped-denim-vest-J217224.html?dwvar_J217224_color=DENIM%20MEDIUM
-CORE NYLON WINDBREAKER,"HKD 1,290.00",image/CORE NYLON WINDBREAKER.png,https://www.calvinklein.com/hk/en/core-nylon-windbreaker-J216168.html?dwvar_J216168_color=BRIGHT%20WHITE
-QUILTED DOWN JACKET,HKD 598.00,image/QUILTED DOWN JACKET.png,https://www.calvinklein.com/hk/en/quilted-down-jacket-J212077.html?dwvar_J212077_color=CK%20BLACK
-ZIP UP HOODED JACKET,HKD 597.00,image/ZIP UP HOODED JACKET.png,https://www.calvinklein.com/hk/en/zip-up-hooded-jacket-J213653.html?dwvar_J213653_color=BALLERINA
-WOVEN HOODED JACKET,"HKD 1,095.00",image/WOVEN HOODED JACKET.png,https://www.calvinklein.com/hk/en/woven-hooded-jacket-J214686.html?dwvar_J214686_color=BRIGHT%20WHITE
-STATEMENT ESSENTIALS PLEAT JACKET,HKD 537.00,image/STATEMENT ESSENTIALS PLEAT JACKET.png,https://www.calvinklein.com/hk/en/statement-essentials-pleat-jacket-4WS0O573.html?dwvar_4WS0O573_color=BRIGHT%20WHITE
-RIPPED FOUNDATION TRUCKER JACKET,HKD 995.00,image/RIPPED FOUNDATION TRUCKER JACKET.png,https://www.calvinklein.com/hk/en/ripped-foundation-trucker-jacket-J215054.html?dwvar_J215054_color=BB487%20LT%20BLUE
-CHECKED SUIT JACKET,"HKD 1,716.00",image/CHECKED SUIT JACKET.png,https://www.calvinklein.com/hk/en/checked-suit-jacket-W02354W152.html?dwvar_W02354W152_color=BLACK%20COMBO
+name,price,img_file,url,num_price
+REFLECTION PACKABLE ZIP UP HOODIE,"HKD 1,393.00",image/REFLECTION PACKABLE ZIP UP HOODIE.png,https://www.calvinklein.com/hk/en/reflection-packable-zip-up-hoodie-J215999.html?dwvar_J215999_color=CRUSHED%20ORANGE,1393.0
+CHINESE NEW YEAR CAPSULE REVERSIBLE JACKET,"HKD 1,603.00",image/CHINESE NEW YEAR CAPSULE REVERSIBLE JACKET.png,https://www.calvinklein.com/hk/en/chinese-new-year-capsule-reversible-jacket-J215355.html?dwvar_J215355_color=YELLOW%20AOP,1603.0
+REFLECTION PACKABLE ZIP UP HOODIE,"HKD 1,393.00",image/REFLECTION PACKABLE ZIP UP HOODIE.png,https://www.calvinklein.com/hk/en/reflection-packable-zip-up-hoodie-J215999.html?dwvar_J215999_color=CK%20BLACK,1393.0
+SHORT HOODED WINDBREAKER,"HKD 1,253.00",image/SHORT HOODED WINDBREAKER.png,https://www.calvinklein.com/hk/en/short-hooded-windbreaker-J215543.html?dwvar_J215543_color=ILLUMINATED%20BLK,1253.0
+CHINESE NEW YEAR CAPSULE RELAXED DENIM TRUCKER JACKET,"HKD 1,533.00",image/CHINESE NEW YEAR CAPSULE RELAXED DENIM TRUCKER JACKET.png,https://www.calvinklein.com/hk/en/chinese-new-year-capsule-relaxed-denim-trucker-jacket-J215379.html?dwvar_J215379_color=CC407%20LT%20BLUE,1533.0
+HYBRID DENIM JACKET,"HKD 2,093.00",image/HYBRID DENIM JACKET.png,https://www.calvinklein.com/hk/en/hybrid-denim-jacket-J216198.html?dwvar_J216198_color=ACD632%20LT%20BLUE,2093.0
+PRIDE CROPPED DENIM VEST,HKD 903.00,image/PRIDE CROPPED DENIM VEST.png,https://www.calvinklein.com/hk/en/pride-cropped-denim-vest-J217224.html?dwvar_J217224_color=DENIM%20MEDIUM,903.0
+CORE NYLON WINDBREAKER,"HKD 1,290.00",image/CORE NYLON WINDBREAKER.png,https://www.calvinklein.com/hk/en/core-nylon-windbreaker-J216168.html?dwvar_J216168_color=BRIGHT%20WHITE,1290.0
+QUILTED DOWN JACKET,HKD 598.00,image/QUILTED DOWN JACKET.png,https://www.calvinklein.com/hk/en/quilted-down-jacket-J212077.html?dwvar_J212077_color=CK%20BLACK,598.0
+ZIP UP HOODED JACKET,HKD 597.00,image/ZIP UP HOODED JACKET.png,https://www.calvinklein.com/hk/en/zip-up-hooded-jacket-J213653.html?dwvar_J213653_color=BALLERINA,597.0
+WOVEN HOODED JACKET,"HKD 1,095.00",image/WOVEN HOODED JACKET.png,https://www.calvinklein.com/hk/en/woven-hooded-jacket-J214686.html?dwvar_J214686_color=BRIGHT%20WHITE,1095.0
+STATEMENT ESSENTIALS PLEAT JACKET,HKD 537.00,image/STATEMENT ESSENTIALS PLEAT JACKET.png,https://www.calvinklein.com/hk/en/statement-essentials-pleat-jacket-4WS0O573.html?dwvar_4WS0O573_color=BRIGHT%20WHITE,537.0
+RIPPED FOUNDATION TRUCKER JACKET,HKD 995.00,image/RIPPED FOUNDATION TRUCKER JACKET.png,https://www.calvinklein.com/hk/en/ripped-foundation-trucker-jacket-J215054.html?dwvar_J215054_color=BB487%20LT%20BLUE,995.0
+CHECKED SUIT JACKET,"HKD 1,716.00",image/CHECKED SUIT JACKET.png,https://www.calvinklein.com/hk/en/checked-suit-jacket-W02354W152.html?dwvar_W02354W152_color=BLACK%20COMBO,1716.0
