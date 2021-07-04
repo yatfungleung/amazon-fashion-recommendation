@@ -25,6 +25,11 @@ with st.sidebar.beta_expander('Definition'):
     The product details that used to train the algorithm were collected from the official website of Calvin Klein.\n
     The recommender selects similar Amazon products based on the product names and images.
     ''')
+
+with st.sidebar.beta_expander('Disclaimer'):
+    st.write('''
+    This web application is meant for educational and informational purposes only.
+    ''')
     
 st.sidebar.write('-------------------------')
 st.sidebar.title('Contact:')
