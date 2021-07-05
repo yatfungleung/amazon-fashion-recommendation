@@ -1,0 +1,10 @@
+ipython==7.24.1
+Keras==2.4.3
+numpy==1.19.5
+pandas==1.2.5
+Pillow==8.2.0
+pip==21.1.1
+selenium==3.141.0
+streamlit==0.84.0
+tensorflow==2.5.0
+urllib3==1.26.5
