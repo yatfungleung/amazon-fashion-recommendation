@@ -37,11 +37,13 @@ The purpose of this project is to help companies to recommend similar products t
 <br />
 
 ### Requirements
-* Python 3.8.5
-* Numpy 1.19.2
-* pandas 1.1.3
-* scikit-learn 0.24.2
-* Streamlit 0.82.0
+* Python 3.9.5
+* Pillow 8.2.0
+* urllib3 1.26.5
+* selenium 3.141.0
+* tensorflow 2.5.0
+* Keras 2.4.3
+* Streamlit 0.84.0
 * etc.
 
 <br />
