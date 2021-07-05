@@ -1,4 +1,6 @@
-# amazon-fashion-recommendation
+<img src="/image/streamlit/app_interface.png">
+
+# Amazon Fashion Recommendation
 This is a personal project I worked on in 2021.
 
 #### -- Project Status: [Completed]
@@ -11,7 +13,18 @@ The purpose of this project is to help companies to recommend similar products t
 ## Deployment
 
 ### Please click the link and have a look: 
-### [caption](link)
+### [Amazon Fashion Recommender](https://share.streamlit.io/yatfungleung/amazon-fashion-recommendation/main/app.py)
+
+<br />
+
+#### Demonstration
+* Step 1: Select the category of apparel
+<img src="/image/streamlit/app_step_1.png" width="700">
+
+* Step 2: Browse through the list of items
+  * You can see your competitor's fashion item on top (in this case, Calvin Klein's)
+  * And followed by two of your company's recommended products below (Amazon products in this example)
+<img src="/image/streamlit/app_step_2.png" width="700">
 
 <br />
 <br />
